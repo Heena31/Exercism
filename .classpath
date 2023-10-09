@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="java/hello-world/src/main/java"/>
+	<classpathentry kind="src" path="java/hello-world/src/test/java"/>
+	<classpathentry kind="src" path="java/lasagna/src/main/java"/>
+	<classpathentry kind="src" path="java/lasagna/src/test/java"/>
+	<classpathentry kind="src" path="java/leap/src/main/java"/>
+	<classpathentry kind="src" path="java/leap/src/test/java"/>
+	<classpathentry kind="src" path="java/two-fer/src/main/java"/>
+	<classpathentry kind="src" path="java/two-fer/src/test/java"/>
+	<classpathentry kind="lib" path="java/hello-world/build/libs/hello-world.jar"/>
+	<classpathentry kind="lib" path="java/hello-world/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="java/lasagna/build/libs/lasagna.jar"/>
+	<classpathentry kind="lib" path="java/lasagna/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="java/leap/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="java/two-fer/build/libs/two-fer.jar"/>
+	<classpathentry kind="lib" path="java/two-fer/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="java/hello-world/build/classes/java/main"/>
+</classpath>
